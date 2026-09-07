@@ -6,7 +6,7 @@
 
 ## サーバーに参加する
 
-準備中...
+招待リンク: https://discord.gg/anvilsaba
 
 ## リンク
 
