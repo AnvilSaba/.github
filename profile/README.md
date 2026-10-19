@@ -1,8 +1,8 @@
 # あんびる鯖
 
-あんびる鯖は [Minecraft: Java Edition](https://www.minecraft.net/ja-jp) の Mod 環境に関する話題を専門とした Discord コミュニティです。
+あんびる鯖は [Minecraft: Java Edition](https://www.minecraft.net/ja-jp) の Mod 環境に関する話題を専門に扱う Discord コミュニティです。
 
-この GitHub Organization では、あんびる鯖で使用している Bot や Web サービス、インフラストラクチャなどのソフトウェアを管理・公開しています。
+この GitHub Organization ではあんびる鯖で使用している Bot、Web サービス、インフラストラクチャ関連のソフトウェアを管理・公開しています。
 
 ## サーバーに参加する
 
